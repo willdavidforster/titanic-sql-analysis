@@ -195,9 +195,10 @@ There is scope for many further insights; for example analysis of family size (c
 Here, the primary aim was to display the ability to initialise an SQLite database and correctly populate it from a CSV file, and to write sophisticated queries that take advantage of the relational nature of the database.
 
 ## Folder structure
-
+```python
 TitanicSQL/
 │
 ├── queries.ipynb       # Jupyter Notebook containing SQL queries, visualizations, and analysis
 ├── titanic.db          # SQLite database created from the Titanic dataset
 ├── README.md           # This file
+```
